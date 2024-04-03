@@ -1,0 +1,28 @@
+{
+    "ip": "203.175.8.27",
+    "location": {
+        "country": "ID",
+        "region": "Daerah Istimewa Yogyakarta",
+        "city": "Nglempongsari",
+        "lat": -7.74306,
+        "lng": 110.3775,
+        "postalCode": "",
+        "timezone": "+07:00",
+        "geonameId": 6264592
+    },
+    "domains": [
+        "ngodod.com",
+        "pusatkawatlas.com",
+        "rogatebeach.com",
+        "alishlahmaros.or.id",
+        "rdscreative.com"
+    ],
+    "as": {
+        "asn": 58487,
+        "name": "CRI-AS-AP",
+        "route": "203.175.8.0/24",
+        "domain": "http://rumahweb.co.id",
+        "type": "Not Disclosed"
+    },
+    "isp": "Rumahweb Indonesia"
+}
